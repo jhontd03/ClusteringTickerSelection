@@ -22,13 +22,17 @@ The main objectives are to:
 
 ## Installation
 
+Clone the repository and install the required dependencies:
+
+```bash
+git clone https://github.com/jhontd03/ClusteringTickerSelection.git
+cd ClusteringTickerSelection
+pip install -r requirements.txt
+```
+
 ### Requirements
 
 The project requires Python 3.11.9 and the following key dependencies:
-
-```bash
-pip install -r requirements.txt
-```
 
 Key dependencies include:
 - MetaTrader5: For market data retrieval
