@@ -24,7 +24,7 @@ The main objectives are to:
 
 ### Requirements
 
-The project requires Python and the following key dependencies:
+The project requires Python 3.11.9 and the following key dependencies:
 
 ```bash
 pip install -r requirements.txt
