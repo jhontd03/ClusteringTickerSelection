@@ -1,0 +1,8 @@
+matplotlib==3.9.2
+MetaTrader5==5.0.4424
+numpy==1.26.4
+pandas==2.2.2
+pandas_ta==0.3.14b0
+scikit-learn==1.5.1
+yellowbrick==1.5
+yfinance==0.2.54
